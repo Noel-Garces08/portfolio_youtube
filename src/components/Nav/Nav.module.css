@@ -1,0 +1,22 @@
+.nav {
+    padding: 2rem 0 2rem 0;
+}
+
+.logo {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.links li {
+    padding: 0 1rem;
+}
+
+.links li a {
+}

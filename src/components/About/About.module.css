@@ -1,0 +1,36 @@
+.about {
+    background-color: #c26868;
+    padding: 5rem 1rem;
+    color: #fafafa;
+}
+
+.title {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.3rem;
+    padding-bottom: 3rem;
+}
+
+.console {
+    background-color: #383737;
+    border-top: 1.5rem solid #cccccc;
+    border-radius: 0.5rem;
+}
+
+.console a {
+    color: #1781bf;
+}
+
+.console_inner {
+    padding: 2rem;
+    font-family: 'Source Code Pro';
+    font-size: 1.3rem;
+}
+
+.command:not(:last-child) {
+    margin-bottom: 2rem;
+}
+
+
+
